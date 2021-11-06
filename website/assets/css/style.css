@@ -29,9 +29,7 @@ body{
     margin-right: 10px;
     margin-left: 10px;
     margin-top: 20px;
-
 }
-
 
 .portfolioContainer {
     background-color: white;
@@ -52,5 +50,10 @@ body{
 
 .portfolioCustomCard h5{
     color: rgb(41, 141, 223);
+}
+
+#img_services {
+    width: 200px;
+    height: 200px; 
 }
 
