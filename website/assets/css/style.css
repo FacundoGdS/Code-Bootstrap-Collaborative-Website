@@ -1,6 +1,6 @@
 
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
 #tagline-big{
@@ -57,3 +57,7 @@ body{
     height: 200px; 
 }
 
+#img_first {
+    width: 200px;
+    height: 200px; 
+}
